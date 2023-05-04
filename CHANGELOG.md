@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unreleased
 
+## [6.1.3a] - 2023-05-04
+
 ### Changed
 
 - pom.xml: add Saxon-HE v11.5 dependency
